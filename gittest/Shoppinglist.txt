@@ -4,5 +4,6 @@ watermelons (1kg)
 cherries (1.1kg)
 bananas (6)
 oranges (8)
+cherries
 Structure and Interpretation of Computer Programs
 Objects First with Java
